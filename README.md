@@ -1,11 +1,21 @@
 <h2 align="center">Hi 👋! My name is Karol and I'm from Poland</h2>
 
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Skwar20.Skwar20&left_color=darkslategrey&right_color=deepskyblue&left_text=Profile views"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Skwar20" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Skwar20" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <p align="left">--🔭 I’m currently working on Portfolio.<br><br>--🌱 I’m currently learning JavaScript.<br><br> --👨‍💻 All of my projects are available at skwar20.github.io/CV/<br><br>--📫 How to reach me: ak5224208@gmail.com.</p>
 
@@ -45,9 +55,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.discordapp.net/attachments/769132843086381056/1047278806433538108/received_647593870155077.jpg?width=526&height=702"  />
 
 ###
