@@ -53,7 +53,7 @@
        	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlosDeveloper&show_icons=true&theme=dracula)
 
-<img alt="Michal" src="https://github-readme-streak-stats.herokuapp.com/?user=KarlosDeveloper&theme=dracula">
+<img alt="Karol" src="https://github-readme-streak-stats.herokuapp.com/?user=KarlosDeveloper&theme=dracula">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlosDeveloper&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
