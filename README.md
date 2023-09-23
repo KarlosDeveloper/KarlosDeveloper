@@ -1,14 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karol a front-end developer</h1>
-<h3 align="center">I'm a Frontend developer</h3>
+<h3 align="center"></h3>
 
 <br>
 
 ## 🙋‍♂️ About Me
 
 <ul>
-  <li> 👦 I am 17 years old</li>
+  <li> 👦 I am 18 years old</li>
 
   <li> 🌱 I am currently learning React.js</li>
+  
+  <li> ⭐ My website: https://karlosdev.pl/</li>
 </ul>
 
 
